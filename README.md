@@ -1,7 +1,6 @@
 # International Space Station System: A High Fidelity, Hyper-Realistic Mod for Kerbal Space Program
 
-*This name is a tribute to the Space Shuttle System mod, shoutout to creators: Dragon01, DECQ
-and to those who readapted the mod for newer versions: Radar, SpaceODY and Gulio Dondi.
+*This name is a tribute to the Space Shuttle System mod, shoutout to creators: Dragon01, DECQ - and to those who readapted the mod for newer versions: Radar, SpaceODY and Gulio Dondi.
 
 ## System Requirements & Recommended Mods
 
