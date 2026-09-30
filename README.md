@@ -5,11 +5,14 @@
 The first mod EVER designed to replicate the ENTIRE International Space Station to the finest detail!
 This mod is designed from the ground up for hyper-realistic **Real Solar System (RSS)** and **Realism Overhaul (RO)** playthroughs, but is also hybridly designed to suit the stock game values.
 
+### Dependencies
+- **B9 Parts Switch** (Required for texture switching)
+- **Textures Unlimited (TU)** (Required for hyper-realistic metallic PBR shaders and window reflections)
+- **Payload Retention System - Next** (Required for functional trunnion pins on modules)
+
 ### Recommended Mods
 - **Realism Overhaul (RO)** (Required for correct operational mass, scale, and performance)
 - **Real Solar System (RSS)** (Required for proper orbital parameters and physics scaling)
-- **Textures Unlimited (TU)** (Required for hyper-realistic metallic PBR shaders and window reflections)
-- **B9 Parts Switch** (Required for texture switching)
 
 ### Built-in Configurations
 - **TweakScale Support** (Full native integration to adjust structural components and sizing seamlessly)
