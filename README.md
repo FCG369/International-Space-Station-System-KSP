@@ -1,7 +1,5 @@
 # International Space Station System: A High Fidelity, Hyper-Realistic Mod for Kerbal Space Program
 
-*This name is a tribute to the Space Shuttle System mod, shoutout to creators: Dragon01, DECQ - and to those who readapted the mod for newer versions: Radar, SpaceODY and Gulio Dondi.
-
 ## System Requirements & Recommended Mods
 
 The first mod EVER designed to replicate the ENTIRE International Space Station to the finest detail!
@@ -21,7 +19,7 @@ This mod is designed from the ground up for hyper-realistic **Real Solar System 
 - Fully designed IVAs (Internal Vehicular Activities)
 - Texture Switching (To simulate historical variants, such as adding insulation blankets to Z1 gyroscopes)
 
-## Component List
+## Component List (1.0 Future Features)
 
 #### Pressurized Modules - United States Orbital Segment (USOS)
 
